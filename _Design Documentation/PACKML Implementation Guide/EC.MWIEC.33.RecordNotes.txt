@@ -1,0 +1,7 @@
+This Toolbox includes DataTypes_Toolbox v200, Math_Toolbox v202,
+PLCopen_Toolbox v205 and Yaskawa_Toolbox v204.  
+When using the PackML Toolbox, you must 
+also include these Toolboxes in the main project, 
+otherwise, compile errors will result.
+
+This version was compiled for MotionWorks IEC 2
